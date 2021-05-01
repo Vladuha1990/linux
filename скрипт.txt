@@ -1,0 +1,9 @@
+cd work
+#!/bin/bash
+cd git1
+mkdir test1 test2 test3
+cd test1
+touch cat1.txt cat2.txt cat3.txt dog1.json dog2.json
+mkdir folder1 folder2 folder3
+ls -l
+mv /c/Users/Computer/work/git1/test1/cat2.txt /c/Users/Computer/work/git1/test1/folder1/
